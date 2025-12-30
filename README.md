@@ -5,14 +5,21 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pygame-ed1c24?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Algorithms-A%20*%20|%20Dijkstra-blue?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Algorithms-A%20*%20%7C%20Dijkstra%20%7C%20BFS%20%7C%20DFS-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
 </p>
 
 <p align="center">
   <b>Robot Pathfinding Simulation</b>
 </p>
+
 ## 🎬 Demo
-![Robot Pathfinding Demo](assets/Demo.gif)
+<p align="center">
+  <img src="assets/Demo.gif" width="85%" />
+</p>
 
 ## ✨ Tính năng chính
 
@@ -230,4 +237,5 @@ Phương Thế Sơn
 ## 📄 License
 Dự án học tập - Sử dụng tự do cho mục đích giáo dục
 # robot-pathffinding-project-CS106
+
 
