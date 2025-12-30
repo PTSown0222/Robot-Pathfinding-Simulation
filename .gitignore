@@ -1,0 +1,23 @@
+# Môi trường ảo (Quan trọng nhất)
+venv/
+ENV/
+env/
+
+# Python rác
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Hệ thống
+.DS_Store
+Thumbs.db
+
+# File dữ liệu/kết quả tạm (nếu có)
+*.log
+
+.mypy_cache/
+**/ .mypy_cache/
