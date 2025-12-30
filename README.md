@@ -1,7 +1,16 @@
-# Robot Pathfinding Simulation
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Robot%20Pathfinding&fontSize=70" />
+</p>
 
-Mô phỏng tìm đường cho robot sử dụng các thuật toán BFS, DFS, Dijkstra và A*
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pygame-ed1c24?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Algorithms-A%20*%20|%20Dijkstra-blue?style=for-the-badge" />
+</p>
 
+<p align="center">
+  <b>Robot Pathfinding Simulation</b>
+</p>
 ## 🎬 Demo
 ![Robot Pathfinding Demo](assets/Demo.gif)
 
@@ -207,6 +216,13 @@ README.md              # Tài liệu tổng quan
 - Đảm bảo click đúng vào button (không phải text)
 - Thử click lại hoặc restart chương trình
 
+### 📊 Bảng so sánh đặc điểm
+| Thuật toán | Ưu điểm | Nhược điểm | Đảm bảo ngắn nhất? |
+| :--- | :--- | :--- | :---: |
+| **BFS** | Tìm đường ít bước nhất | Chạy chậm trên map lớn | ✅ |
+| **DFS** | Tốn ít bộ nhớ | Đường đi thường rất dài | ❌ |
+| **Dijkstra** | Luôn tìm đường rẻ nhất | Khám phá mù quáng mọi hướng | ✅ |
+| **A\*** | Nhanh và hiệu quả nhất | Cần hàm Heuristic tốt | ✅ |
 
 ## 👨‍💻 Tác giả
 Phương Thế Sơn
@@ -214,3 +230,4 @@ Phương Thế Sơn
 ## 📄 License
 Dự án học tập - Sử dụng tự do cho mục đích giáo dục
 # robot-pathffinding-project-CS106
+
