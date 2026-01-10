@@ -61,7 +61,7 @@
 
 
 ### 🎬 Visualization
-- **Open Set** (Green 'O'): Nodes currently being evaluated.
+- **Open Set** (Blue 'O'): Nodes currently being evaluated.
 - **Closed Set** (Red 'X'): Nodes already evaluated.
 - **Robot Animation**: Animates the robot moving step-by-step along the path.
 - **Final Path** (Red Line): The resulting path after the robot completes the movement.
@@ -128,7 +128,7 @@
 
 ### Key Classes
 - **Node**: Represents a cell's state and coordinates.
-- **Grid**: Manages the collection of Nodes and neighbors.
+- **Grid**: Manages the collection of Nodes and neighbours.
 - **PathfindingAlgorithms**: The engine for BFS, DFS, Dijkstra, and A*.
 
 ---
@@ -158,6 +158,7 @@
 
 ## 📄 License
 Educational Project - Free for learning and academic use.
+
 
 
 
